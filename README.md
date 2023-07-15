@@ -1,7 +1,7 @@
 # ML-scikit-learn
 Applicable ML - Regressors and Classifiers
 
-Playgrond:
+Playground:
 
 **sklearn-toys-datasets-analysis:**
 
